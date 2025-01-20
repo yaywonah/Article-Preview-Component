@@ -163,6 +163,10 @@ body {
         border-bottom-left-radius: 10px;
     }
 
+    .container-info {
+        margin-top: 10px;
+    }
+
     .container-aside {
         width: 448px;
     }
